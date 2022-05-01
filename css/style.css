@@ -8,4 +8,12 @@
   justify-content: center;
 }
 
+.navHeader {
+  background-color: black;
+}
+
+.navText {
+  color: white;
+}
+
 /*# sourceMappingURL=style.css.map */

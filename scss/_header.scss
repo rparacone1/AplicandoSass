@@ -3,9 +3,14 @@
     height: 180px ;
     width: auto ;
 }
-
-.contenedor
-{
+.contenedor{
     display: flex;
     justify-content: center;
+}
+.navHeader
+{
+    background-color: black;
+}
+.navText{
+    color: white;
 }
