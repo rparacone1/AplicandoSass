@@ -1,0 +1,11 @@
+.Pokemon {
+  height: 180px;
+  width: auto;
+}
+
+.contenedor {
+  display: flex;
+  justify-content: center;
+}
+
+/*# sourceMappingURL=style.css.map */

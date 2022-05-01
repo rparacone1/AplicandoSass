@@ -1,0 +1,54 @@
+/*letretro grande de titulo pokemon */
+.Pokemon 
+{
+    height: 180px ;
+    width: auto ;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+
+/* contenedor de los 3 pokemones */
+.flexPadre
+{
+    display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+}
+
+/* charmeleon */
+.charmeleon 
+{
+    height: 300px;
+    width: auto;
+}
+
+.fondoCharmender {
+    background-color: red;
+}
+
+
+/*  squirtle */
+.squirtle{
+    height: 300px;
+    width: auto;
+}
+
+.fondoSquirtle
+{
+    background-color: lightskyblue;
+}
+
+/* bulbasour */
+.bulbasour{
+    height: 300px;
+    width: auto;
+}
+
+.fondoBulbasour{
+    background-color: green;
+}
+
+
