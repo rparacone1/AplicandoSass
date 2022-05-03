@@ -12,6 +12,10 @@
   background-color: black;
 }
 
+.navText {
+  color: white;
+}
+
 header {
   background-color: none;
 }
@@ -26,7 +30,7 @@ header {
 
 /* Nesting o anidamiento */
 .backgroundIndex {
-  background-color: lightslategrey;
+  background-color: lightgrey;
 }
 
 .fondoBulbasour {
