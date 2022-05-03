@@ -8,12 +8,46 @@
   justify-content: center;
 }
 
-.navHeader {
+.navNavegador {
   background-color: black;
 }
 
-.navText {
+header {
+  background-color: none;
+}
+
+.color {
+  background-color: black;
+}
+
+.link {
   color: white;
+}
+
+/* Nesting o anidamiento */
+.backgroundIndex {
+  background-color: lightslategrey;
+}
+
+.fondoBulbasour {
+  background-color: lightgreen;
+}
+
+.fondoCharmender {
+  background-color: red;
+}
+
+.fondoSquirtle {
+  background-color: lightskyblue;
+}
+
+section div {
+  display: flex;
+  justify-content: center;
+}
+section div {
+  display: flex;
+  justify-content: center;
 }
 
 /*# sourceMappingURL=style.css.map */

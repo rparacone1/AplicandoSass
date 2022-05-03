@@ -1,1 +1,59 @@
 @import 'header';
+@import 'footer';
+
+/* Nesting o anidamiento */
+
+
+.backgroundIndex
+{
+    background-color: lightslategrey;
+}
+
+.fondoBulbasour 
+{
+    background-color: lightgreen;
+}
+.fondoCharmender
+{
+    background-color: red;
+}
+.fondoSquirtle
+{
+    background-color: lightskyblue;
+}
+
+
+
+section{
+    div{display: flex; justify-content: center;
+        div{
+            a{  
+                img{
+                    div{ 
+                        a{
+                            img{
+                                div{ 
+                                    a{
+                                        img{
+                                                p
+                                                    {
+                                                    }   
+                                            }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+section{
+    div{ display: flex; justify-content: center;
+        img{
+
+        }
+    }
+}

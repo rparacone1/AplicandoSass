@@ -8,13 +8,45 @@
     display: flex;
     justify-content: center;
 }
+/*
 .navHeader
 {
     background-color: black;
 }
+*/
+/*
 .navText{
     color: white;
 }
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* Body */
 
@@ -43,6 +75,11 @@ justify-content: space-around;
     background-color: red;
 }
 
+.contenedorimagenCharmender
+{
+    display: flex;
+    justify-content: center;
+}
 
 /*  squirtle */
 .squirtle{
@@ -55,6 +92,13 @@ justify-content: space-around;
     background-color: lightskyblue;
 }
 
+.contenedorimagenSquirtle
+{
+    display: flex;
+    justify-content: center;
+}
+
+
 /* bulbasour */
 .bulbasour{
     height: 300px;
@@ -65,6 +109,11 @@ justify-content: space-around;
     background-color:springgreen;
 }
 
+.contenedorimagenBulbasour
+{
+    display: flex;
+    justify-content: center;
+}
 /* FOOTER */
 
 .color{
