@@ -37,6 +37,7 @@ section{
                                         img{
                                                 p
                                                     {
+                                                        color: black;
                                                     }   
                                             }
                                     }
@@ -53,7 +54,7 @@ section{
 section{
     div{ display: flex; justify-content: center;
         img{
-
+            image-rendering: none;
         }
     }
 }

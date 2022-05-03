@@ -45,9 +45,16 @@ section div {
   display: flex;
   justify-content: center;
 }
+section div div a img div a img div a img p {
+  color: black;
+}
+
 section div {
   display: flex;
   justify-content: center;
+}
+section div img {
+  image-rendering: none;
 }
 
 /*# sourceMappingURL=style.css.map */
